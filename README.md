@@ -20,3 +20,9 @@ Usage
 3. Optional - use `@ClassPredicate` to filter by instantiated class.
 
 See the example [`org.xmedeko.gcpsuite.TestSuiteUse`](https://github.com/xmedeko/gcpsuite/blob/master/src/test/java/org/xmedeko/gcpsuite/TestSuite.java).
+
+
+Related Projects
+----------------
+* Original ClasspathSuite [http://johanneslink.net/projects/cpsuite.jsp]
+* Takari's cpsuite [https://github.com/takari/takari-cpsuite]
